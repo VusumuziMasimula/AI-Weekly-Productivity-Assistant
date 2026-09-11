@@ -4,7 +4,7 @@
 Professionals spend 10+ hours weekly on manual planning, email writing, and meeting follow-ups. Flow is ONE integrated platform that automates this using AI.
 
 ### Features (3 Core)
-1.  **AI Task Planner / Scheduler (Main Feature):** Generates a prioritized Monday-Friday schedule from user goals and tasks.
+1.  **AI Task Planner / Scheduler (Main Feature):** Generates a prioritized Monday-Friday schedule from user goals and tasks using Eisenhower Matrix.
 2.  **Smart Email Generator:** Creates professional emails with tone control (Formal, Friendly, Persuasive).
 3.  **Meeting Notes Summarizer:** Extracts summary, action items, decisions, and deadlines from long notes.
 
@@ -34,4 +34,4 @@ This application uses AI-generated content. Outputs may contain errors or bias a
 
 ### Links
 - GitHub Repo: https://github.com/VusumuziMasimula/AI-Weekly-Productivity-Assistant
-- Live Demo: [Paste your Lovable publish link here]
+- Live Demo: https://flow-your-ai-assistant.lovable.app
