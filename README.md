@@ -15,16 +15,23 @@ Professionals spend 10+ hours weekly on manual planning, email writing, and meet
 - GitHub for version control
 
 ### Setup Instructions
-1. Clone: `git clone https://github.com/YOUR-USERNAME/AI-Weekly-Productivity-Assistant.git`
+1. Clone: `git clone https://github.com/VusumuziMasimula/AI-Weekly-Productivity-Assistant.git`
 2. Install: `npm install`
 3. Run: `npm run dev`
+4. Open: `http://localhost:5173`
 
 ### Prompt Engineering
 Structured prompts are used for each feature to ensure accurate, unbiased, and useful outputs.
+- **Planner Prompt:** "You are an expert productivity coach. Given [TASKS], [GOALS], prioritize using Eisenhower Matrix and create a balanced Mon-Fri schedule..."
+- **Email Prompt:** "Act as a professional business communicator. Write a [TONE] email to [RECIPIENT] about [CONTEXT]..."
+- **Summarizer Prompt:** "Summarize notes and extract: 1) Summary 2) Action Items 3) Decisions 4) Deadlines..."
 
 ### Responsible AI Disclaimer
-This application uses AI-generated content. Outputs may contain errors or bias and should be reviewed by the user before use. No sensitive personal data is stored.
+This application uses AI-generated content. Outputs may contain errors or bias and should be reviewed by the user before use. No sensitive personal data is stored. Built with responsible AI principles.
 
 ### Team
-- [Your Full Name] - CAPACITI JHB 18
-- Live Demo Link: [Paste Lovable link here after publishing]
+- Vusumuzi Masimula - CAPACITI JHB 18
+
+### Links
+- GitHub Repo: https://github.com/VusumuziMasimula/AI-Weekly-Productivity-Assistant
+- Live Demo: [Paste your Lovable publish link here]
